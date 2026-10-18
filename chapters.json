@@ -1,0 +1,113 @@
+{
+  "title": "Math 4 / Math 4 ADV Student Workbook",
+  "chapters": [
+    {
+      "title": "Front Matter",
+      "page": 1,
+      "subsections": [
+        { "title": "Cover", "page": 1 },
+        { "title": "Positive Norms (Jo Boaler)", "page": 2 }
+      ]
+    },
+    {
+      "title": "Unit 1: Building Community Through the Data Cycle",
+      "page": 3,
+      "subsections": [
+        { "title": "Bar Graphs", "page": 6 },
+        { "title": "Line Graphs", "page": 9 },
+        { "title": "Stem and Leaf Plots", "page": 12 },
+        { "title": "Probability", "page": 15 },
+        { "title": "Computational Algebraic Thinking", "page": 18 }
+      ]
+    },
+    {
+      "title": "Unit 2: Addition and Subtraction",
+      "page": 21,
+      "subsections": [
+        { "title": "Place Value", "page": 23 },
+        { "title": "Comparing and Ordering Through the Millions", "page": 27 },
+        { "title": "Addition and Subtraction in Context", "page": 31 },
+        { "title": "Increasing and Decreasing Patterns", "page": 37 }
+      ]
+    },
+    {
+      "title": "Unit 3: Fractions Part 1",
+      "page": 48,
+      "subsections": [
+        { "title": "Representing Fractions as Division", "page": 51 },
+        { "title": "Comparing and Ordering Fractions", "page": 55 }
+      ]
+    },
+    {
+      "title": "Unit 4: Multiplication and Division Part 1",
+      "page": 67,
+      "subsections": [
+        { "title": "Increasing and Decreasing Patterns", "page": 70 },
+        { "title": "Factor Pairs", "page": 80 },
+        { "title": "Multiplication and Division in Context", "page": 90 }
+      ]
+    },
+    {
+      "title": "Unit 5: Decimals",
+      "page": 104,
+      "subsections": [
+        { "title": "Representing and Naming Decimals", "page": 106 },
+        { "title": "Fraction and Decimal Equivalence", "page": 110 },
+        { "title": "Comparing and Ordering Decimals", "page": 116 },
+        { "title": "Addition and Subtraction with Decimals", "page": 122 }
+      ]
+    },
+    {
+      "title": "Unit 6: Multiplication and Division Part 2",
+      "page": 128,
+      "subsections": [
+        { "title": "Patterns in Context", "page": 132 },
+        { "title": "Inverse Relationships of Multiplication and Division", "page": 135 },
+        { "title": "Decomposing to Multiply", "page": 138 },
+        { "title": "Multiplication and Division Computation", "page": 141 },
+        { "title": "Multiplication and Division in Context", "page": 144 }
+      ]
+    },
+    {
+      "title": "Unit 7: Fractions Part 2",
+      "page": 160,
+      "subsections": [
+        { "title": "Probability", "page": 163 },
+        { "title": "Common Factors & Simplifying Fractions", "page": 167 },
+        { "title": "Adding and Subtracting Fractions", "page": 170 }
+      ]
+    },
+    {
+      "title": "Unit 8: Geometry",
+      "page": 182,
+      "subsections": [
+        { "title": "One-Dimensional Geometric Figures", "page": 185 },
+        { "title": "Plane and Solid Figures", "page": 195 }
+      ]
+    },
+    {
+      "title": "Unit 9: Measurement",
+      "page": 207,
+      "subsections": [
+        { "title": "Length", "page": 210 },
+        { "title": "Area and Perimeter", "page": 215 },
+        { "title": "Weight/Mass", "page": 220 },
+        { "title": "Liquid Volume", "page": 225 },
+        { "title": "Elapsed Time", "page": 229 }
+      ]
+    },
+    {
+      "title": "Unit 10: Fractions Part 3 (Advanced)",
+      "page": 235,
+      "subsections": [
+        { "title": "Adding and Subtracting Fractions (Advanced)", "page": 237 },
+        { "title": "Computational Algebraic Thinking", "page": 240 }
+      ]
+    },
+    {
+      "title": "Attribution",
+      "page": 245,
+      "subsections": []
+    }
+  ]
+}

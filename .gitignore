@@ -1,0 +1,32 @@
+# Source photos — too large for git, re-generated into pages/ by scripts/convert_heic.py
+Sheenaz-math-4th-grade/
+*.HEIC
+*.heic
+*.HEIF
+*.heif
+
+# Original unredacted cover kept locally for rollback; do NOT publish
+pages/page_001.original.jpg
+
+# WSL / Windows artefacts
+*:Zone.Identifier
+*:sec.endpointdlp
+
+# Google Drive bundle leftovers
+*.zip
+
+# Per-page OCR text files — regenerated from pages/ocr.json; keep ocr.json tracked
+pages/ocr/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editors / OS / Claude Code session metadata
+.DS_Store
+.vscode/
+.idea/
+.claude/
+*.swp
